@@ -7,7 +7,7 @@ import com.formation.Calculateur;
 public class TestCalculator {
 	@Test
 	public void testAdd() {
-		assertEquals(12, Calculateur.add(7, 5));
+		assertEquals(13, Calculateur.add(7, 6));
 	}
 	@Test
 	public void testMultiplay() {
